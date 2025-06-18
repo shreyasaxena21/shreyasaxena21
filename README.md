@@ -72,12 +72,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyasaxena21&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasaxena21&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🎯 Fun Fact
-> I can talk endlessly about sports — from cricket stats to Olympic legends — and still have energy left to design an Instagram reel or write a newsletter article for Sportify! 😄
