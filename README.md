@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/shreya-saxena-16a011246/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://leetcode.com/u/xlzwi2eoxr/" target="_blank">
+  <a href="https://leetcode.com/u/shreyasaxena21/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
   </a>
 </p>
