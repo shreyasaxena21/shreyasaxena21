@@ -38,7 +38,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,postgres,vue,react,flask,pandas,postman,figma,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,postgres,vue,flask,postman,figma,bootstrap" />
 </p>
 
 ---
