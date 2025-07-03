@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi there, I'm Shreya Saxena ✨</h1>
-<h3 align="center">💻 A Computer Science Student | 👩‍💻 Passionate Coder | 🎨 Design Enthusiast | 🌐 Open-Source Contributor</h3>
+<h3 align="center">💻 A Computer Science Student | 👩‍💻 Passionate Coder | 🎨 Design Enthusiast | AI & ML | Data Science </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyasaxena21&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasaxena21" />
@@ -53,9 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasaxena21&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasaxena21&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ---
 
