@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi there, I'm Shreya Saxena ✨</h1>
-<h3 align="center">💻 A Computer Science Student | 👩‍💻 Passionate Coder | 🎨 Design Enthusiast | AI & ML | Data Science </h3>
+<h1 align="center">Hi there, I'm Shreya Saxena </h1>
+<h3 align="center"> A Computer Science Student | Passionate Coder | Design Enthusiast | AI & ML | Data Science </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyasaxena21&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasaxena21" />
@@ -13,16 +13,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms, Full Stack Development (Java + React)**
-- 👨‍💻 My projects live at: [My Portfolio](https://shreyasaxena21.github.io/portfolio/)
-- 💬 Ask me about: **Vue, Flask, AI, ML**
-- 📫 Reach me at: **shreyasaxena2104@gmail.com**
+-  Currently learning **Data Structures & Algorithms, Full Stack Development (Java + React)**
+-  My projects live at: [My Portfolio](https://shreyasaxena21.github.io/portfolio/)
+-  Ask me about: **Vue, Flask, AI, ML**
+-  Reach me at: **shreyasaxena2104@gmail.com**
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-saxena-16a011246/" target="_blank">
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,postgres,vue,flask,postman,figma,bootstrap" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyasaxena21&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
