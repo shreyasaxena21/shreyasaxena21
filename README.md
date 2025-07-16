@@ -21,7 +21,9 @@
 -  Reach me at: **shreyasaxena2104@gmail.com**
 
 ---
-
+### Projects
+- Household Services Application - Full Stack - Vue, Flask, SQLite3
+- Live link - [Click here](https://a-z-household-frontend.vercel.app/)
 ### Connect with Me
 
 <p align="center">
