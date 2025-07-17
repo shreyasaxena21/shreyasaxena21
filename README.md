@@ -40,7 +40,7 @@ A platform that facilitates collaborations between social media influencers and 
 - Technologies: HTML, CSS, Flask, SQLite3  
 - Features: Admin dashboard for approvals, influencer and sponsor profile management, campaign coordination  
 - Live: [Visit Site](https://influencify-backend-vc9j.onrender.com/)  
-- Source Code: [GitHub Repository](https://github.com/shreyasaxena21/Influencify)
+- Source Code: [GitHub Repository](https://github.com/shreyasaxena21/Influencify-Backend)
 
 ---
 
