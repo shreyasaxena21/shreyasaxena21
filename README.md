@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Shreya Saxena </h1>
-<h3 align="center"> A Computer Science Student | Passionate Coder | Design Enthusiast | AI & ML | Data Science </h3>
+<h1 align="center">Hi there, I'm Shreya Saxena</h1>
+<h3 align="center">A Computer Science Student | Passionate Coder | Design Enthusiast | AI & ML | Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyasaxena21&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasaxena21" />
@@ -15,17 +15,39 @@
 
 ### About Me
 
--  Currently learning **Data Structures & Algorithms, Full Stack Development (Java + React)**
--  My projects live at: [My Portfolio](https://shreyasaxena21.github.io/portfolio/)
--  Ask me about: **Vue, Flask, AI, ML**
--  Reach me at: **shreyasaxena2104@gmail.com**
+- Final year B.Tech student in Computer Science  
+- Currently learning Data Structures & Algorithms and Full Stack Development (Java + React)  
+- Interested in Artificial Intelligence, Machine Learning, Data Science etc
+- Passionate about solving real-world problems using technology  
+- Portfolio: [shreyasaxena21.github.io/portfolio](https://shreyasaxena21.github.io/portfolio/)  
+- Contact: shreyasaxena2104@gmail.com
 
 ---
-### Projects
-- Household Services Application - Full Stack - Vue, Flask, SQLite3
-- Live link - [Click here](https://a-z-household-frontend.vercel.app/)
 
-  --- 
+### Projects
+
+#### A-Z Household Services  
+A full-stack web application to manage and book local household services such as electricians, plumbers, and cleaners.  
+- Technologies: Vue.js, Flask, SQLite3  
+- Features: Role-based login for customers and service providers, service discovery, and booking system  
+- Live: [Visit Site](https://a-z-household-frontend.vercel.app/)  
+- Source Code: [Frontend](https://github.com/shreyasaxena21/a-z-household-frontend) | [Backend](https://github.com/shreyasaxena21/a-z-household-backend)
+
+---
+
+#### Influencify – Influencer Sponsorship Coordination Platform  
+A platform that facilitates collaborations between social media influencers and sponsors.  
+- Technologies: HTML, CSS, Flask, SQLite3  
+- Features: Admin dashboard for approvals, influencer and sponsor profile management, campaign coordination  
+- Live: [Visit Site](https://influencify-backend-vc9j.onrender.com/)  
+- Source Code: [GitHub Repository](https://github.com/shreyasaxena21/Influencify)
+
+---
+
+Additional projects and case studies are available on my [portfolio website](https://shreyasaxena21.github.io/portfolio/).
+
+---
+
 ### Connect with Me
 
 <p align="center">
@@ -39,7 +61,7 @@
 
 ---
 
-###  Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql,postgres,vue,flask,postman,figma,bootstrap" />
@@ -47,7 +69,7 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyasaxena21&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
@@ -57,11 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasaxena21&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
-
-
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
----
-
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
