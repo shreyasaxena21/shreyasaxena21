@@ -19,7 +19,7 @@
 - Currently learning Data Structures & Algorithms and Full Stack Development (Java + React)  
 - Interested in Artificial Intelligence, Machine Learning, Data Science etc
 - Passionate about solving real-world problems using technology  
-- Portfolio: [shreyasaxena21.github.io/portfolio](https://shreyasaxena21.github.io/portfolio/)  
+- Portfolio: [Click Here](https://shreya-saxena-portfolio.vercel.app/) 
 - Contact: shreyasaxena2104@gmail.com
 
 ---
@@ -35,16 +35,20 @@ A full-stack web application to manage and book local household services such as
 
 ---
 
-#### Influencify – Influencer Sponsorship Coordination Platform  
-A platform that facilitates collaborations between social media influencers and sponsors.  
-- Technologies: HTML, CSS, Flask, SQLite3  
-- Features: Admin dashboard for approvals, influencer and sponsor profile management, campaign coordination  
-- Live: [Visit Site](https://influencify-backend-vc9j.onrender.com/)  
-- Source Code: [GitHub Repository](https://github.com/shreyasaxena21/Influencify-Backend)
+#### Virtual TA – an AI-powered assistant that can intelligently answer queries based on educational content sourced from Discourse (IITM Portal - TDS Course).
+It leverages Large Language Models (LLMs), advanced web scraping, semantic search with embeddings, and vector databases to provide precise and contextual responses via a simple API.
+- Technologies: Python, LangChain, GPT-4o, BeautifulSoup, Requests, JSON, XML
+- Features: Web Scraping: Extracts data from forums and websites using BeautifulSoup and Requests.
+            Data Cleaning: Parses HTML, JSON, and XML into structured, readable formats.
+            Embeddings: Converts content into vector form using OpenAI or local models.
+            Chunking & Storage: Breaks text into chunks and stores embeddings in FAISS for fast retrieval.
+            LLM Querying: Uses GPT-4o to generate answers from contextually relevant data.
+            API Access: Exposes the assistant via a simple cURL-accessible endpoint.
+- Source Code: [GitHub Repository](https://github.com/shreyasaxena21/Virtual-TA-Project)
 
 ---
 
-Additional projects and case studies are available on my [portfolio website](https://shreyasaxena21.github.io/portfolio/).
+Additional projects and case studies are available on my [portfolio website](https://shreya-saxena-portfolio.vercel.app/).
 
 ---
 
