@@ -82,7 +82,6 @@ Additional projects and case studies are available on my [portfolio website](htt
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasaxena21&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
