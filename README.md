@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyasaxena21&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasaxena21" />
 </p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shreyasaxena21&theme=flat&row=1&margin-w=10&no-frame=true&no-bg=true" alt="GitHub Trophies" />
