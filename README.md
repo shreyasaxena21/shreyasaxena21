@@ -16,7 +16,7 @@
 ### About Me
 
 - Final year B.Tech student in Computer Science  
-- Currently learning Data Structures & Algorithms and Full Stack Development (Java + React)  
+- Currently learning Data Structures & Algorithms and Full Stack Development   
 - Interested in Artificial Intelligence, Machine Learning, Data Science etc
 - Passionate about solving real-world problems using technology  
 - Portfolio: [Click Here](https://shreya-saxena-portfolio.vercel.app/) 
