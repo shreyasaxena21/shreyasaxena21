@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Shreya Saxena</h1>
-<h3 align="center">A Computer Science Student | Passionate Coder | Design Enthusiast | AI & ML | Data Science</h3>
+<h3 align="center">A Computer Science Student and AI- ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shreyasaxena21&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasaxena21" />
