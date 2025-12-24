@@ -24,25 +24,17 @@
 
 ### Projects
 
+#### Machine Learning Project
+- This project predicts daily cinema audience attendance using historical visit patterns, booking data, and calendar information. The solution implements a smart two-stage approach that   automatically selects and tunes the best-performing model.
+- GitHub - [Click Here](https://github.com/shreyasaxena21/Machine-Learning-Project)
+---
+
 #### A-Z Household Services  
 A full-stack web application to manage and book local household services such as electricians, plumbers, and cleaners.  
 - Technologies: Vue.js, Flask, SQLite3  
 - Features: Role-based login for customers and service providers, service discovery, and booking system  
 - Live: [Visit Site](https://a-z-household-frontend.vercel.app/)  
 - Source Code: [Frontend](https://github.com/shreyasaxena21/a-z-household-frontend) | [Backend](https://github.com/shreyasaxena21/a-z-household-backend)
-
----
-
-#### Virtual TA – an AI-powered assistant that can intelligently answer queries based on educational content sourced from Discourse (IITM Portal - TDS Course).
-It leverages Large Language Models (LLMs), advanced web scraping, semantic search with embeddings, and vector databases to provide precise and contextual responses via a simple API.
-- Technologies: Python, LangChain, GPT-4o, BeautifulSoup, Requests, JSON, XML
-- Features: Web Scraping: Extracts data from forums and websites using BeautifulSoup and Requests.
-            Data Cleaning: Parses HTML, JSON, and XML into structured, readable formats.
-            Embeddings: Converts content into vector form using OpenAI or local models.
-            Chunking & Storage: Breaks text into chunks and stores embeddings in FAISS for fast retrieval.
-            LLM Querying: Uses GPT-4o to generate answers from contextually relevant data.
-            API Access: Exposes the assistant via a simple cURL-accessible endpoint.
-- Source Code: [GitHub Repository](https://github.com/shreyasaxena21/Virtual-TA-Project)
 
 ---
 
